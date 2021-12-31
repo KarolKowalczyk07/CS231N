@@ -1,1 +1,2 @@
 # CS231N
+Stanford's CS231N: Convolutional Neural Networks for Computer Vision Course. Course assignments include topics such as: K-nearest neighbors (KNN), support vector machines (SVM), softmax, fully-connected neural networks, batch optimization, dropout, convolutional networks, image captioning with vanilla recurrent neural networks (RNN's), long short-term memory (LSTM's), transformers, network visualization, and generative adversarial networks. Code templates and datasets (CIFAR10) were provided by Stanford, with the algorithms being personally coded.
